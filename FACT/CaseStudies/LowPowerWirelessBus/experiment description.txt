@@ -1,0 +1,9 @@
+Generate an input file for R1 and R2 where
+T=1000 to 60000 with step of 1000 
+for:
+alpha=0.95
+observations:
+p 2 1000\n794\n206
+p 2 10000\n8090\n1910
+p 2 30000\n24021\n5979
+p 2 60000\n47987\n12013

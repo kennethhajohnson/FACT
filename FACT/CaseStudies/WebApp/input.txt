@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+ <head>
+  <title>Index of /~raduc/FACT/WebAppCaseStudy/input</title>
+ </head>
+ <body>
+<h1>Index of /~raduc/FACT/WebAppCaseStudy/input</h1>
+  <table>
+   <tr><th valign="top"><img src="/icons/blank.gif" alt="[ICO]"></th><th><a href="?C=N;O=D">Name</a></th><th><a href="?C=M;O=A">Last modified</a></th><th><a href="?C=S;O=A">Size</a></th><th><a href="?C=D;O=A">Description</a></th></tr>
+   <tr><th colspan="5"><hr></th></tr>
+<tr><td valign="top"><img src="/icons/back.gif" alt="[PARENTDIR]"></td><td><a href="/~raduc/FACT/WebAppCaseStudy/">Parent Directory</a></td><td>&nbsp;</td><td align="right">  - </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="input-5000.txt">input-5000.txt</a></td><td align="right">2014-09-17 09:55  </td><td align="right">955 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="input-10000.txt">input-10000.txt</a></td><td align="right">2014-09-17 09:55  </td><td align="right">970 </td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="input-25000.txt">input-25000.txt</a></td><td align="right">2014-09-17 09:55  </td><td align="right">1.0K</td><td>&nbsp;</td></tr>
+<tr><td valign="top"><img src="/icons/text.gif" alt="[TXT]"></td><td><a href="input-100000.txt">input-100000.txt</a></td><td align="right">2014-09-17 09:55  </td><td align="right">811 </td><td>&nbsp;</td></tr>
+   <tr><th colspan="5"><hr></th></tr>
+</table>
+<address>Apache/2.4.7 (Ubuntu) Server at www-users.cs.york.ac.uk Port 80</address>
+</body></html>

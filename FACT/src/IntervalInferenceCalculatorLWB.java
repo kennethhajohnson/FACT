@@ -27,16 +27,18 @@ public class IntervalInferenceCalculatorLWB {
 	static public MatlabProxyFactory matLabFactory;
 	static public MatlabProxy proxy;	
 
-	//static String[] fileNames= new String[]{			
-		//lwb case study input files
-		//"sanitycheck.txt"
-	//};
 
-	///Users/kjohnson/Google Drive/Model Learning Paper/Code/Web Case Study Experiments
 	static private String inputDirectory=
-			"/Users/kjohnson/Google Drive/Model Learning Paper/Code/LWB case study/input/";
+			"../FACT/CaseStudies/LowPowerWirelessBus/";
+
 	static private String outputDirectory=
-			"/Users/kjohnson/Google Drive/Model Learning Paper/Code/LWB case study/output/";
+			"../FACT/output/";
+	
+	
+	
+	
+	
+	
 	static private String experimentPrefix="output_";	
 	private Random rndGen = new Random(System.currentTimeMillis());
 	//------------------------------------------------------------------------------------------------

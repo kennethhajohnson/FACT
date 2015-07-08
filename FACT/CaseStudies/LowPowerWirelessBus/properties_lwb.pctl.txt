@@ -1,0 +1,4 @@
+R{"power"}=? [ S ]
+
+R{"energy"}=? [ F (q=4) ]
+
