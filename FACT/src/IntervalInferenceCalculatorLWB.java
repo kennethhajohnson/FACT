@@ -29,10 +29,10 @@ public class IntervalInferenceCalculatorLWB {
 
 
 	static private String inputDirectory=
-			"../FACT/CaseStudies/LowPowerWirelessBus/";
+			"/Users/ColinPaterson/Desktop/";
 
 	static private String outputDirectory=
-			"../FACT/output/";
+			"/Users/ColinPaterson/Desktop/";
 	
 	
 	
